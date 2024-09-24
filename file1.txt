@@ -13,4 +13,9 @@ Alterações no branch NovaFeature
 
 
 
+<<<<<<< HEAD
 Alteração no branch novamente
+=======
+
+Alterações no branch MASTER
+>>>>>>> master
