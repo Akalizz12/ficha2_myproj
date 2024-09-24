@@ -10,3 +10,7 @@ Fiz uma alteração dentro do ficheiro
 
 
 Alterações no branch NovaFeature
+
+
+
+Alteração no branch novamente
